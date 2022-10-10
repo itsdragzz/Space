@@ -1,0 +1,237 @@
+  
+@import url(http://fonts.googleapis.com/css?family=Crete+Round);
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+	background-color: black;
+}
+h1, h2, h3, h4 {
+  font-family: 'Crete Round';
+}
+
+h1 {
+  display: inline-block;
+  width: auto;
+  background-color: rgb(255,255,255);
+  color: rgb(255,255,255);
+  padding: 5px 15px;
+  margin-left: -30px;
+}
+
+a {
+  color: rgb(255,255,255);
+  text-decoration: none;
+}
+
+.logo {
+  display: inline-block;
+  font-family: 'Rock Salt';
+  font-size: 16px;
+  line-height: 16px;
+  color: rgb(255,255,255);
+}
+
+
+section {
+  padding-left: 30px;
+  padding-bottom: 8px;
+}
+
+/* Nav styles */
+
+nav > ul > li {
+  display: inline-block;
+  padding: 20px;
+}
+
+nav > ul > li:hover {
+  background-color: rgb(180, 31, 66);
+}
+
+nav > ul > li > a {
+  font-family: 'Crete Round';
+  color: rgb(255,255,255);
+  text-decoration: none;
+}
+
+nav > ul > li > a:hover {
+  color: rgb(255,255,255);
+}
+p{
+  width: 300px;
+  height: 400px;
+  text-align: justify;
+}
+
+.hometext{
+background-image: url("sun.png");
+	width: 1570px;
+   height: 600px;
+}
+ .spaceX{
+  color: rgb(255,255,255);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+font-family: 'Crete Round';
+position: relative;
+}
+
+.hometext1{
+background-image: url("mercury.jpg.png");
+	width: 1570px;
+   height: 600px;
+}
+ .spaceX2{
+  color: rgb(255,255,255);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+font-family: 'Crete Round';
+position: relative;
+}
+
+.hometext2{
+background-image: url("Venus.jpg.png");
+	width: 1570px;
+   height: 600px;
+}
+ .spaceX1{
+  color: rgb(255,255,255);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+font-family: 'Crete Round';
+position: relative;
+}
+
+.hometext3{
+background-image: url("earth.jpg.png");
+	width: 1570px;
+   height: 600px;
+}
+ .spaceX3{
+  color: rgb(255,255,255);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+font-family: 'Crete Round';
+position: relative;
+}
+
+.hometext4{
+background-image: url("mars.jpg.png");
+	width: 1570px;
+   height: 600px;
+}
+ .spaceX4{
+  color: rgb(255,255,255);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+font-family: 'Crete Round';
+position: relative;
+}
+
+.hometext5{
+background-image: url("Jupiter.jpg.png");
+	width: 1570px;
+   height: 600px;
+}
+ .spaceX5{
+  color: rgb(255,255,255);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+font-family: 'Crete Round';
+position: relative;
+}
+
+.hometext6{
+background-image: url("Saturn.jpg.png");
+	width: 1570px;
+   height: 600px;
+}
+ .spaceX6{
+  color: rgb(255,255,255);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+font-family: 'Crete Round';
+position: relative;
+}
+
+.hometext7{
+background-image: url("hurjpg.jpg.png");
+	width: 1570px;
+   height: 600px;
+}
+ .spaceX7{
+  color: rgb(255,255,255);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+font-family: 'Crete Round';
+position: relative;
+}
+
+.hometext8{
+background-image: url("nasaneptune2_custom-c118f86f434a6b25122c3d059e9767b6f5cdd41e-s800-c85.jpg.png");
+	width: 1570px;
+   height: 600px;
+}
+ .spaceX8{
+  color: rgb(255,255,255);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+font-family: 'Crete Round';
+position: relative;
+}
+
+
+
+
+
+
+/* Footer styles */
+footer {
+  background-color: black;
+  color: rgb(255,255,255);
+  text-align: center;
+  padding: 10px;
+}
+
+footer > section {
+  display: inline-block;
+  vertical-align: top;
+  width: 200px;
+}
+
+.social {
+  font-size: 10px;
+}
+
+h3 > h2 > h1{
+	color: rgb(255,255,255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
